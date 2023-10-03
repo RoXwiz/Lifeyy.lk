@@ -1,0 +1,68 @@
+body {
+    background-image: url(../img/normal.jpg);
+    text-align: justify;
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+    
+}
+.container {
+    
+    
+    margin: 200px ;
+    padding: 50px;
+    
+}
+.profile-details {
+   margin-right: 30 px;
+}
+
+.claim-details {
+   margin-inline-end: 20px;
+}
+
+
+h1 {
+   text-align: center;
+   margin-top: 0;
+ }
+ 
+ h2 {
+   margin-top: 20px;
+   margin-bottom: 10px;
+ }
+ 
+ table {
+   height: 100%;
+    width: 100%;
+   border-collapse: collapse;
+   border: 1px solid black;
+ }
+ 
+ th, td {
+   padding: 8px;
+   text-align: left;
+   border-bottom: 1px solid black;
+ }
+ 
+ th {
+   border: 1px solid black;
+ }
+ 
+ .username-container {
+   
+   align-items: center;
+   margin-bottom: 20px;
+ }
+ 
+ .username-container img {
+   width: 50px;
+   height: 50px;
+   border-radius: 50%;
+   margin-right: 10px;
+ }
+
+  
+  
+
+
